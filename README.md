@@ -1,2 +1,3 @@
-# change-background-color-on-click
- 
+# Change-background-color-on-click
+JavaScript Practice Example.
+
